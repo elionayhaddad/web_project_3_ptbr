@@ -1,6 +1,6 @@
 .header {
-  margin: auto;
-  display: grid;
+  display: flex;
+  flex-direction: column;
 }
 .header__title {
   font-family: "Inter";
@@ -28,12 +28,9 @@
     font-size: 1rem;
     line-height: 1.25;
   }
-  .header-container {
+  .header__image {
     width: 100%;
     margin: 40px 0 44px;
-  }
-  .header-container__image {
-    width: 100%;
   }
 }
 @media screen and (min-width: 544px) and (max-width: 1024px) {
@@ -45,12 +42,9 @@
     font-size: 1.87rem;
     line-height: 1.2;
   }
-  .header-container {
+  .header__image {
     width: 100%;
     margin: 69px 0 88px;
-  }
-  .header-container__image {
-    width: 100%;
   }
 }
 @media screen and (min-width: 1024px) {
@@ -63,11 +57,8 @@
 
     line-height: 1.2;
   }
-  .header-container {
+  .header__image {
     width: 76.6%;
     margin: 64px auto 92px;
-  }
-  .header-container__image {
-    width: 100%;
   }
 }
