@@ -46,4 +46,4 @@ Mais do que construir o que poderá ser visto na tela, no projeto é pensado tam
 
 ### GitHub Pages
 
-Acredito que depois de ter um breve resumo do que se trata o projeto, e das técnicas/tecnologias usadas para a sua construção, nada será mais esclarecedor do vendo com os próprios olhos o resultado final do website. Você poderá conferir através do link: https://github.com/elionayhaddad/web_project_3_ptbr.git
+Acredito que depois de ter um breve resumo do que se trata o projeto, e das técnicas/tecnologias usadas para a sua construção, nada será mais esclarecedor do vendo com os próprios olhos o resultado final do website. Você poderá conferir através do link: https://elionayhaddad.github.io/web_project_3_ptbr/
