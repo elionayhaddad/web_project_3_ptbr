@@ -7,7 +7,7 @@
   width: 62%;
   max-width: 793px;
   margin: 0 0 32px;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 900;
   font-size: 6rem;
@@ -19,7 +19,7 @@
   width: 57%;
   max-width: 720px;
   margin: 0 0 64px;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 400;
   font-size: 30px;

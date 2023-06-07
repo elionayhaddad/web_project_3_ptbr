@@ -7,7 +7,7 @@
   border-radius: 4px;
   box-sizing: border-box;
   transition: background-color 1s ease-in-out;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
@@ -16,10 +16,13 @@
   text-align: center;
   color: #fff;
 }
+.button:hover {
+  background-color: #0063d2;
+}
 .button_place_cover {
   margin: 32px auto 0;
   width: fit-content;
-  font-family: "Inter";
+  font-family: "Inter", Arial, sans-serif;
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
