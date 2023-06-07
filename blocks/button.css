@@ -11,7 +11,7 @@
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
-  line-height: 22px;
+  line-height: 1.22;
   text-decoration: none;
   text-align: center;
   color: #fff;
@@ -23,14 +23,14 @@
   font-style: normal;
   font-weight: 600;
   font-size: 18px;
-  line-height: 22px;
+  line-height: 1.22;
   color: #ffffff;
 }
 @media screen and (max-width: 1024px) {
   .button {
     width: 355px;
     font-size: 18px;
-    line-height: 22px;
+    line-height: 1.22;
   }
   .button_place_cover {
     width: fit-content;
@@ -49,6 +49,6 @@
     margin-top: 16px;
     max-width: 191px;
     font-size: 18px;
-    line-height: 22px;
+    line-height: 1.22;
   }
 }

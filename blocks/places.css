@@ -49,7 +49,7 @@
   font-style: normal;
   font-weight: 400;
   font-size: 18px;
-  line-height: 22px;
+  line-height: 1.22;
   color: #ffffff;
 }
 .places__image {
@@ -106,8 +106,8 @@
   .places__paragraph {
     width: 100%;
     max-width: 352px;
-    line-height: 163%;
     font-size: 1rem;
+    line-height: 1.63;
   }
 }
 @media screen and (max-width: 544px) {
@@ -125,7 +125,7 @@
   .places__title {
     width: 100%;
     max-width: 288px;
-    font-size: 32px;
+    font-size: 2rem;
     margin: 0 auto 0;
   }
   .places__artist {
@@ -150,7 +150,7 @@
   }
   .places__paragraph {
     width: 100%;
-    line-height: 163%;
     font-size: 1rem;
+    line-height: 1.63;
   }
 }
