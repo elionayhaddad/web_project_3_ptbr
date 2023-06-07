@@ -6,8 +6,6 @@
 - Tecnologias e Técnicas
 - GitHub Pages
 
-4. O link para o GitHub Pages
-
 ### Descrição
 
 O projeto mostra as cidades de origem de alguns funcionários do Practicum, com imagens ilustrativas de cada uma dessas cidades, acompanhada de uma breve descrição sobre o local. O principal desafio deste projeto foi a implementação de um design responsivo/adaptativo junto de um aninhamento por grade. Logo, todos os elementos devem ser exibidos corretamente em tamanhos de tela populares, em conformidade com o que é apresentado no Figma.
