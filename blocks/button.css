@@ -7,19 +7,18 @@
   border-radius: 4px;
   box-sizing: border-box;
   transition: background-color 1s ease-in-out;
-}
-.button_place_cover {
-  margin: 32px auto 0;
-}
-.button__link {
   font-family: "Inter";
   font-style: normal;
   font-weight: 600;
+  font-size: 18px;
+  line-height: 22px;
   text-decoration: none;
   text-align: center;
   color: #fff;
 }
-.button__link_place_cover {
+.button_place_cover {
+  margin: 32px auto 0;
+  width: fit-content;
   font-family: "Inter";
   font-style: normal;
   font-weight: 600;
@@ -28,7 +27,13 @@
   color: #ffffff;
 }
 @media screen and (max-width: 1024px) {
+  .button {
+    width: 355px;
+    font-size: 18px;
+    line-height: 22px;
+  }
   .button_place_cover {
+    width: fit-content;
     margin-top: 32px;
   }
 }
@@ -37,15 +42,13 @@
     width: 100%;
     max-width: 288px;
     margin: 0 auto 0;
+    font-size: 14px;
+    line-height: 17px;
   }
   .button_place_cover {
     margin-top: 16px;
     max-width: 191px;
-  }
-  .button__link {
-    width: 86%;
-    max-width: 245px;
-    font-size: 14px;
-    line-height: 17px;
+    font-size: 18px;
+    line-height: 22px;
   }
 }
